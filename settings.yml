@@ -1,3 +1,0 @@
-# turn off HTML cleaning so your <style> is preserved
-disableSanatize: true   # legacy key used by Stirling-PDF
-disableSanitize: true   # newer key; harmless if unknown
